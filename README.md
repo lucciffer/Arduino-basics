@@ -1,9 +1,10 @@
 # Arduino-basics
 Contains basics on Arduino
   
-    
-All Projects/Codes are tested, and works fine.  
-For any queries/errors, please report to techh.engine@gmail.com
+All the chapters of this basics course are designed on [TinkerCAD](https://www.tinkercad.com/)  
+And were also verified on real-time hardware as well
+All Projects/Codes are tested, and work fine.  
+For any queries/errors(if in case), please report to techh.engine@gmail.com
 
 **CHAPTERS**  
 Chapter 1: LED Blink  
