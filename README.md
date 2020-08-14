@@ -8,6 +8,7 @@ For any queries/errors(if in case), please report to techh.engine@gmail.com
 
 **CHAPTERS**  
 Chapter 1: LED Blink  
-Chapter 2: RGB LED interfacing  
-Chapter 3: Ultrasonic Range Finder  
-Chapter 4: LCD 16x2 interfacing with Arduino UNO R3
+Chapter 2: LED Blink with Push Button  
+Chapter 3: RGB LED interfacing  
+Chapter 4: Ultrasonic Range Finder  
+Chapter 5: LCD 16x2 interfacing with Arduino UNO R3
