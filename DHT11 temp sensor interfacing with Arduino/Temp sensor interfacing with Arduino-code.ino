@@ -1,14 +1,14 @@
-int baselineTemp = 0;
-
-int celsius = 0;
-
-int fahrenheit = 0;
+int baselineTemp = 0; //base temperature value for C to F conversion
+ 
+int celsius = 0;  //celcuis values
+ 
+int fahrenheit = 0;  //fahrenheit values
 
 void setup()
 {
   pinMode(A0, INPUT); //Analog pin for sensor in tinkercad only.
   //for DHT11 sensor, use any digital pin, to record temperatures.
-  Serial.begin(9600);
+  Serial.begin(9600); //initialize serial communication at 9600 baud rate
 
 }
 
