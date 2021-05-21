@@ -23,7 +23,7 @@ And were also verified on real-time hardware as well
 All Projects/Codes are tested, and work fine.  
 For any queries/errors(if in case), please report to techh.engine@gmail.com
 
-**CHAPTERS**  
+## Chapters 
 Chapter 1: [LED Blink](https://github.com/lucciffer/Arduino-basics/tree/master/Led%20Blink)  
 Chapter 2: [LED Blink with Push Button](https://github.com/lucciffer/Arduino-basics/tree/master/LED%20Blink%20with%20Push%20Button)   
 Chapter 3: [RGB LED interfacing](https://github.com/lucciffer/Arduino-basics/tree/master/RGB%20LED%20interfacing)  
