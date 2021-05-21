@@ -1,6 +1,22 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
-# Arduino-basics
-Contains basics on Arduino
+# Arduino-basics  
+### What is Arduino?  
+Arduino is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors.
+
+Arduino board designs use a variety of microprocessors and controllers. The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits. The boards feature serial communications interfaces, including Universal Serial Bus (USB) on some models, which are also used for loading programs. The microcontrollers can be programmed using the C and C++ programming languages, using a standard API which is also known as the "Arduino language". In addition to using traditional compiler toolchains, the Arduino project provides an integrated development environment (IDE) and a command line tool (arduino-cli) developed in Go.
+
+The Arduino project began in 2005 as a tool for students at the Interaction Design Institute Ivrea in Ivrea, Italy,[2] aiming to provide a low-cost and easy way for novices and professionals to create devices that interact with their environment using sensors and actuators. Common examples of such devices intended for beginner hobbyists include simple robots, thermostats and motion detectors.
+
+The name Arduino comes from a bar in Ivrea, Italy, where some of the founders of the project used to meet. The bar was named after Arduin of Ivrea, who was the margrave of the March of Ivrea and King of Italy from 1002 to 1014.  
+To know more about Arduino click [here](https://en.wikipedia.org/wiki/Arduino)  
+## Pin Details of Arduino (UNO R3)  
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.circuito.io%2Fwp-content%2Fuploads%2F2018%2F04%2FArduino-uno-pinout-diagram.png&f=1&nofb=1">
+</p>
+
+
+
+This repository contains interfacing of basic components and peripherals with Arduino and some basic projects.
   
 All the chapters of this basics course are designed on [TinkerCAD](https://www.tinkercad.com/)  
 And were also verified on real-time hardware as well
